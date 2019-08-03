@@ -1,0 +1,9 @@
+<launch>
+    
+
+    <!--- Sim Time -->
+    <param name="/use_sim_time" value="true" />
+    <!--param name="/savepath" value="/home/cj/Downloads/outdoor_data/image/" />
+    <node pkg="bag2img" type="bag2img"	    name="bag2img"  	      output="screen"/-->
+    
+</launch>
